@@ -2,4 +2,4 @@
 
 Practice
 
-This is a repository created for uploading projects using git
+This is a repository created for uploading a recipe project using git
